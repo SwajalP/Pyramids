@@ -1,0 +1,11 @@
+C:\Users\Lay\source\repos\Pyramids\Pyramids\obj\Debug\Pyramids.csproj.AssemblyReference.cache
+C:\Users\Lay\source\repos\Pyramids\Pyramids\obj\Debug\Pyramids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lay\source\repos\Pyramids\Pyramids\obj\Debug\Pyramids.Form2.resources
+C:\Users\Lay\source\repos\Pyramids\Pyramids\obj\Debug\Pyramids.Properties.Resources.resources
+C:\Users\Lay\source\repos\Pyramids\Pyramids\obj\Debug\Pyramids.csproj.GenerateResource.cache
+C:\Users\Lay\source\repos\Pyramids\Pyramids\obj\Debug\Pyramids.csproj.CoreCompileInputs.cache
+C:\Users\Lay\source\repos\Pyramids\Pyramids\bin\Debug\Pyramids.exe.config
+C:\Users\Lay\source\repos\Pyramids\Pyramids\bin\Debug\Pyramids.exe
+C:\Users\Lay\source\repos\Pyramids\Pyramids\bin\Debug\Pyramids.pdb
+C:\Users\Lay\source\repos\Pyramids\Pyramids\obj\Debug\Pyramids.exe
+C:\Users\Lay\source\repos\Pyramids\Pyramids\obj\Debug\Pyramids.pdb
